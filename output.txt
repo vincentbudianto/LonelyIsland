@@ -1,0 +1,71 @@
+rute yang dapat diambil pemain dari pulau 1:
+
+Track 1: 1 -> 2 -> 3 -> 4 -> 5 -> 6
+
+Track 2: 1 -> 2 -> 3 -> 6
+
+Track 3: 1 -> 2 -> 5 -> 6
+
+Track 4: 1 -> 3 -> 4 -> 5 -> 6
+
+Track 5: 1 -> 3 -> 6
+
+Track 6: 1 -> 4 -> 5 -> 6
+
+Track 7: 1 -> 5 -> 6
+
+Track 8: 1 -> 6
+
+Track 9: 1 -> 2 -> 3 -> 4 -> 7
+
+Track 10: 1 -> 2 -> 7
+
+Track 11: 1 -> 3 -> 4 -> 7
+
+Track 12: 1 -> 4 -> 7
+
+Track 13: 1 -> 7
+
+Track 14: 1 -> 2 -> 3 -> 4 -> 5 -> 8
+
+Track 15: 1 -> 2 -> 3 -> 8
+
+Track 16: 1 -> 2 -> 5 -> 8
+
+Track 17: 1 -> 3 -> 4 -> 5 -> 8
+
+Track 18: 1 -> 3 -> 8
+
+Track 19: 1 -> 4 -> 5 -> 8
+
+Track 20: 1 -> 5 -> 8
+
+Track 21: 1 -> 8
+
+Track 22: 1 -> 2 -> 3 -> 4 -> 9
+
+Track 23: 1 -> 2 -> 9
+
+Track 24: 1 -> 3 -> 4 -> 9
+
+Track 25: 1 -> 4 -> 9
+
+Track 26: 1 -> 9
+
+Track 27: 1 -> 2 -> 3 -> 4 -> 5 -> 10
+
+Track 28: 1 -> 2 -> 3 -> 10
+
+Track 29: 1 -> 2 -> 5 -> 10
+
+Track 30: 1 -> 3 -> 4 -> 5 -> 10
+
+Track 31: 1 -> 3 -> 10
+
+Track 32: 1 -> 4 -> 5 -> 10
+
+Track 33: 1 -> 5 -> 10
+
+Track 34: 1 -> 10
+
+terdapat 5 pulau dimana pemain dapat terjebak jika pemain mulai dari pulau 1 yaitu di pulau yaitu di pulau 6 atau pulau 7 atau pulau 8 atau pulau 9 atau pulau 10
